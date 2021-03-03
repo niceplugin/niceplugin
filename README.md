@@ -4,7 +4,13 @@
 
 웹 표준 스팩의 IndexDB 사용편의를 위해 만든 npm 모듈
 
-# 채팅 및 URL 압축 서비스 <span style="font-size: 1.5rem">[링크](https://u-z.me) </span>
+# Vuetify 레이아웃 생성 <span style="font-size: 1.5rem">[링크](https://vuetify-layout-generator.web.app/) </span>
+
+이 애디터는 빠르게 **vuetify** 레이아웃을 스케치 하기위해 만들어졌습니다.
+
+**vuetify** 컴포넌트의 `props`와 `slots`를 설정하고, 실시간으로 결과 화면과 소스코드를 확인할 수 있습니다.
+
+# 채팅 및 URL 압축 서비스기 <span style="font-size: 1.5rem">[링크](https://u-z.me) </span>
 
 기술 구현 대모 페이지로서 깃 소스는 [이곳](https://github.com/niceplugin/meteor_vue_2.0) 에서 확인 가능.
 
