@@ -10,24 +10,17 @@
 
 **vuetify** 컴포넌트의 `props`와 `slots`를 설정하고, 실시간으로 결과 화면과 소스코드를 확인할 수 있습니다.
 
-# 채팅 및 URL 압축 서비스기 <span style="font-size: 1.5rem">[링크](https://u-z.me) </span>
+# URL 압축 서비스기 <span style="font-size: 1.5rem">[링크](https://u-z.me) </span>
 
-기술 구현 대모 페이지로서 깃 소스는 [이곳](https://github.com/niceplugin/meteor_vue_2.0) 에서 확인 가능.
+bit.ly 와 동일한 301 리디렉션 서비스 구현 (URL 압축 서비스) [깃 소스코드](https://github.com/niceplugin/meteor_vue_2.0)
 
-서비스 관련 정보:
-
-- 실시간 데이터 업데이트 (채팅 기능)
-- 301 리디렉션 서비스 구현 (URL 압축 서비스)
-- 구브라우저(IE) 크로스브라우징 대신 서버사이드 단계에서 별도 페이징 처리
-	
-프로젝트 기타 정보:
-
-- Vue 사용으로 프론트 사이드 기능 구현 및 컴포넌트화
+- Vue + vuetify 최소 사용으로 프론트 사이드 기능 구현 및 컴포넌트화
 - Meteor(NodeJS) 프레임워크로 서버 구성
 - Atlas MongoDB Cloud 로 DB 호스팅
 - 서비스 무중단 릴리즈 가능토록 PM2 환경으로 구성됨
 - AWS 의 EC2 Ubuntu OS 에서 서비스 런칭
 - DNS 적용 및 SSL(HTTPS) 활성화
+- 구브라우저(IE) 크로스브라우징 대신 서버사이드 단계에서 별도 페이징 처리
 
 # 프레임워크 문서 한글화 <span style="font-size: 1.5rem">[링크](https://github.com/niceplugin/translation/tree/master) </span>
 
